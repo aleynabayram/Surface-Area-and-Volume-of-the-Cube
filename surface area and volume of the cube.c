@@ -1,3 +1,5 @@
+/*The code calculates the surface area and volume of the cube */
+
 #include <stdio.h>
 	int main () {
 
